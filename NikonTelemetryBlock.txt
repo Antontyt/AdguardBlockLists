@@ -1,0 +1,7 @@
+Для Nikon серверов
+#
+# Block Nikon Servers
+#
+0.0.0.0 sams.nikonimaging.com
+0.0.0.0 9k3x1jrq3kwx.nikonimaging.com
+0.0.0.0 www.nikonimaging.com

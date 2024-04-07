@@ -1,0 +1,16 @@
+Для Graphisoft ArchiCAD серверов
+#
+# Block Graphisoft ArchiCAD Servers
+#
+0.0.0.0 wit-ams-cloudservice.cloudapp.net
+0.0.0.0 licensemanager.graphisoft.com
+0.0.0.0 licensemanager-test.graphisoft.com
+0.0.0.0 bimx-api.graphisoft.com
+0.0.0.0 licensemanager-subtest.graphisoft.com
+0.0.0.0 graphisoftid-subtest.graphisoft.com
+0.0.0.0 graphisoftid-test.graphisoft.com
+0.0.0.0 graphisoftid.graphisoft.com
+0.0.0.0 ruleservice-api-subscr-test.graphisoft.com
+0.0.0.0 ruleservice-api-test.graphisoft.com
+0.0.0.0 practivate.adobe.com
+0.0.0.0 ruleservice-api.graphisoft.com

@@ -1,0 +1,17 @@
+Для Acronis серверов
+#
+# Block Acronis Servers
+#
+0.0.0.0 liveupdate.acronis.com
+0.0.0.0 activation.acronis.com
+0.0.0.0 web-api-tih.acronis.com
+0.0.0.0 download.acronis.com
+0.0.0.0 orders.acronis.com
+0.0.0.0 ns1.acronis.com
+0.0.0.0 ns2.acronis.com
+0.0.0.0 ns3.acronis.com
+0.0.0.0 account.acronis.com
+0.0.0.0 gateway.acronis.com
+0.0.0.0 cloud-rs-ru2.acronis.com
+0.0.0.0 cloud-fes-ru2.acronis.com
+0.0.0.0 rpc.acronis.com

@@ -1,0 +1,21 @@
+Для Telestream серверов
+#
+# Block Telestream Servers
+#
+0.0.0.0 lbmail.telestream.net
+0.0.0.0 80-239-221-56.customer.teliacarrier.com
+0.0.0.0 80-239-221-99.customer.teliacarrier.com
+0.0.0.0 80-239-221-75.customer.teliacarrier.com
+0.0.0.0 dynamic.telestream.net
+0.0.0.0 a629.g.akamai.net
+0.0.0.0 store-esellerate-net.wip.digitalrivercontent.net
+0.0.0.0 esellerate-store2.digitalriver.com
+0.0.0.0 store.esellerate.net
+0.0.0.0 store2.esellerate.net
+0.0.0.0 store5.esellerate.net
+0.0.0.0 store6.esellerate.net
+0.0.0.0 esellerate.net
+0.0.0.0 digitalrivercontent.net
+0.0.0.0 digitalriver.com
+0.0.0.0 marketleverage.wip.directresponsetech.com
+0.0.0.0 directresponsetech.com

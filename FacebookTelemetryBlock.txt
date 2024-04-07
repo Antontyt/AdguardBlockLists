@@ -1,0 +1,33 @@
+Для Facebook серверов
+#
+# Block Facebook Servers
+#
+0.0.0.0 app.facebook.com
+0.0.0.0 api.facebook.com
+0.0.0.0 iphone.facebook.com
+0.0.0.0 *.channel40.facebook.com
+0.0.0.0 m.facebook.com
+0.0.0.0 facebook.com
+0.0.0.0 www.facebook.com
+0.0.0.0 *.channel61.facebook.com
+0.0.0.0 touch.facebook.com
+0.0.0.0 blog.facebook.com
+0.0.0.0 connect.facebook.net
+0.0.0.0 fbcdn.net
+0.0.0.0 www.fbcdn.net
+0.0.0.0 fbcdn.com
+0.0.0.0 www.fbcdn.com
+0.0.0.0 apps.facebook.com
+0.0.0.0 upload.facebook.com
+0.0.0.0 b.static.ak.fbcdn.net
+0.0.0.0 login.facebook.com
+0.0.0.0 www.login.facebook.com
+0.0.0.0 static.ak.connect.facebook.com
+0.0.0.0 www.static.ak.connect.facebook.com
+0.0.0.0 creative.ak.fbcdn.net
+0.0.0.0 www.creative.ak.fbcdn.net
+0.0.0.0 creative.ak.facebook.com
+0.0.0.0 www.creative.ak.facebook.com
+0.0.0.0 static.ak.fbcdn.net
+0.0.0.0 www.static.ak.fbcdn.net
+0.0.0.0 api-read.facebook.com

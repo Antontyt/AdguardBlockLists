@@ -1,0 +1,8 @@
+Для Raxco серверов
+#
+# Block Raxco Servers
+#
+0.0.0.0 www.raxco.com
+0.0.0.0 raxco.com
+0.0.0.0 vso1.vso-software.fr
+0.0.0.0 activation.gocyberlink.com

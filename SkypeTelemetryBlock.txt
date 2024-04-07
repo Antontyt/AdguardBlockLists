@@ -1,0 +1,6 @@
+Для Skype InChat Ads & AutoUpdate
+#
+# Block Skype InChat Ads & AutoUpdate
+#
+0.0.0.0 apps.skype.com
+0.0.0.0 ui.skype.com
